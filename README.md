@@ -9,3 +9,6 @@ It will definitely be anything but boring. After learning the basics of the basi
 
 ## Who's teaching me?
 This club will be facilitated by Riyaad Azad, who is a certified Android developer and alumnus of [Al Fatih Academy](http://www.alfatih.org/). He's also fluent in several markup and programming languages. To learn more about him, check out his personal website at [riyaadazad.github.io](https://riyaadazad.github.io/)
+
+## What will I need?
+Aside from being eager to learn and obtaining permission to create an online [GitHub](https://github.com) account, nothing else is needed. Computers (most likely Chromebooks) will be provided to you.
