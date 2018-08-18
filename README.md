@@ -18,4 +18,4 @@ This club will be facilitated by Riyaad Azad, who is a proficient front-end webs
 
 ## What will I need?
 
-Aside from being eager to learn and obtaining permission to create an online [GitHub](https://github.com) account, nothing else is needed. Computers (most likely Chromebooks) will be provided to you.
+Aside from being eager to learn and obtaining permission to create an online [GitHub](https://github.com) account to join GitHub Classroom, nothing else is needed. Computers will be provided to you.
