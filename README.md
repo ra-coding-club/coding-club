@@ -14,7 +14,7 @@ It will definitely be anything but boring. After learning the basics of the basi
 
 ## Who's teaching me?
 
-This club will be facilitated by Riyaad Azad, who is a proficient front-end website developer, certified Android developer and alumnus of [Al Fatih Academy](http://www.alfatih.org/). He's also fluent in several markup and programming languages, and he loves photographygettin. To learn more about him, check out his personal website at [riyaadazad.github.io](https://riyaadazad.github.io/). You can also [email him](mailto:azad.riyaad@gmail.com).
+This club will be facilitated by Riyaad Azad, who is a proficient front-end website developer, certified Android developer and alumnus of [Al Fatih Academy](http://www.alfatih.org/). He's also fluent in several markup and programming languages, and he loves photography. To learn more about him, check out his personal website at [riyaadazad.github.io](https://riyaadazad.github.io/). You can also [email him](mailto:azad.riyaad@gmail.com).
 
 ## What will I need?
 
