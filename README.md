@@ -1,4 +1,4 @@
-**[Getting Started](https://ra-coding-club.github.io/coding-club/)** | 
+**[Home](https://ra-coding-club.github.io/coding-club/)** | 
 
 # Welcome!
 
