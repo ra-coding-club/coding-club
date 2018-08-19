@@ -16,6 +16,17 @@ It will definitely be anything but boring. After learning the basics of the basi
 
 This club will be facilitated by Riyaad Azad, who is a proficient front-end website developer, certified Android developer and alumnus of [Al Fatih Academy](http://www.alfatih.org/). He's also fluent in several markup and programming languages, and he loves photography. To learn more about him, check out his personal website at [riyaadazad.github.io](https://riyaadazad.github.io/). You can also [email him](mailto:azad.riyaad@gmail.com).
 
+## What can I expect?
+
+Session 1 | Learn HTML
+Session 2 | Learn CSS & JS
+Session 3 | Brainstorm a Project
+Session 4 | Work on Project
+Session 5 | Finalize Project
+Session 6 | Share Project
+
+Throughout each session, we will have fun activities meant to help you learn fundamental concepts of front-end website development.
+
 ## What will I need?
 
 Aside from being eager to learn and obtaining permission to create an online [GitHub](https://github.com) account to join GitHub Classroom, nothing else is needed. Computers will be provided to you.
