@@ -50,6 +50,7 @@ During the lesson, students will be introduced to...
     * Internet basics
     * Website basics
 * ...HTML
+
 After the lesson, students will...
 * ...“cool down” on the material covered
 * ...culminate with a coding playground (experiment with newly-acquired skills)
