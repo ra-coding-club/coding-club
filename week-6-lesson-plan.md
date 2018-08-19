@@ -28,4 +28,4 @@ Cool Down Prompts Include:
 
 ## Activity
 
-Students present their projects.
+The day will be reinforced by allowing students presentation time to “code and tell” (share and tell) about their creations.
