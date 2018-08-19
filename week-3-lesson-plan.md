@@ -1,3 +1,5 @@
+[Week 1 Lesson Plan](https://ra-coding-club.github.io/coding-club/week-1-lesson-plan) | [Week 2 Lesson Plan](https://ra-coding-club.github.io/coding-club/week-2-lesson-plan) | **[Week 3 Lesson Plan](https://ra-coding-club.github.io/coding-club/week-3-lesson-plan)** | [Week 4 Lesson Plan](https://ra-coding-club.github.io/coding-club/week-4-lesson-plan) | [Week 5 Lesson Plan](https://ra-coding-club.github.io/coding-club/week-5-lesson-plan) | [Week 6 Lesson Plan](https://ra-coding-club.github.io/coding-club/week-6-lesson-plan)
+
 # Week 3 Lesson Plan
 
 ## Overview
