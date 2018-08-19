@@ -42,7 +42,9 @@ By the end of this week, students should be able to...
 
 ## Objectives
 
-Students will be introduced to...
+Before the lesson, students will perform a greeting and icebreaker activity.
+
+During the lesson, students will be introduced to...
 * ...GitHub and source code editor
 * ...website fundamentals
     * Internet basics
