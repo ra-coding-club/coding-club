@@ -1,4 +1,4 @@
-# Lesson Plan
+# Week 1 Lesson Plan
 
 ## Overview
 
