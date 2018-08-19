@@ -57,10 +57,6 @@ After the lesson, students will...
 * ...“cool down” on the material covered
 * ...culminate with a coding playground (experiment with newly-acquired skills)
 
-Cool Down Prompts Can Include:
-* Why did you choose to join this club?
-* Tell me everything that you think you'll learn from this club
-
 ## Activity
 
 Further reinforce the lessons by allotting time toward the end of the session (after the "cool down") for experimentation with
