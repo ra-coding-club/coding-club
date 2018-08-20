@@ -35,7 +35,7 @@ During the lesson, students will be introduced to...
 
 After the lesson, students will...
 * ...“cool down” on the material covered
-* ...culminate with a coding playground using the online game CSS Diner in order to allow experimentation with newly-acquired skills.
+* ...culminate with a coding playground using the online game [CSS Diner](http://flukeout.github.io/) in order to allow experimentation with newly-acquired skills.
 
 ## Activity
 
