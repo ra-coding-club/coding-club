@@ -28,3 +28,5 @@ At the end of the session, students will “cool down” on the material covered
 ## Activity
 
 Students will work on their projects.
+
+**Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
