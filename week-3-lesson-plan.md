@@ -43,10 +43,11 @@ During the lesson, students will be introduced to...
 
 After the lesson, students will...
 * ...“cool down” on the material covered
+* ...work on the online activities provided
 * ...begin working on their projects
 
 ## Activity
 
-Students will work on their projects.
+Students will work through online activities and work on their projects.
 
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
