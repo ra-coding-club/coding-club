@@ -29,6 +29,6 @@ Throughout each session, we will have fun activities meant to help you learn fun
 
 ## What will I need?
 
-Aside from being eager to learn, having a Google account to join the group on Google Groups, and obtaining permission to create an online [GitHub](https://github.com) account to join GitHub Classroom, nothing else is needed. Computers will be provided to you.
+Aside from being eager to learn and obtaining permission to create an online [GitHub](https://github.com) account to join GitHub Classroom, nothing else is needed. Computers will be provided to you.
 
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
